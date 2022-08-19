@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello moi nguoi
+=======
+Hello cac ban
+>>>>>>> dc0599849786ebe10a59140e61ba38cc7b9a48ad
 =======
 Xin chao cac ban
 >>>>>>> 346ce673190d8d71833605953bfb29a9e92db2a8

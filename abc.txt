@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello
+=======
+Xin chao cac ban
+>>>>>>> 346ce673190d8d71833605953bfb29a9e92db2a8
